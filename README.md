@@ -1,4 +1,4 @@
-Hi 👋, I'm Omowumi Khalid</h1>
+</h1>Hi 👋, I'm Omowumi Khalid</h1>
 
 <h3 align="center">
 IT Support Specialist | Data Processing Expert | Graphic Designer | Video Editor | Portal Administrator
@@ -154,5 +154,5 @@ I enjoy solving problems, improving workflows, and creating visual content that 
 
 
 🌍 Portfolio Website:
-> *(Your portfolio URL)*
+> *(https://github.com/KHEDDY22/Omowumi-Khalid-Kolawole/blob/main/README.md)*
 
